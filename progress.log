@@ -4,3 +4,4 @@
 [2026-03-12] #0004  Added guard clause  // Adicionando gitignore para projeto Python
 [2026-03-12] #0005  Centralised constants  // Adicionando gitignore DevSecOps + Python
 [2026-03-12] #0006  Added guard clause  // Deletado o READ.ME no lugar errado
+[2026-03-12] #0007  Refactored module structure  // adicionando exemplo de fatiamento de strings
