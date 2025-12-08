@@ -7,3 +7,4 @@
 [2026-03-12] #0007  Refactored module structure  // adicionando exemplo de fatiamento de strings
 [2026-03-12] #0008  Cleaned up unused imports  // Adicionando exemplo de strings multiplas em python
 [2026-03-12] #0009  Improved variable naming  // Adicionando exemplo de string multipla
+[2026-03-12] #0010  Updated inline documentation  // Adicionando exemplo de menu CLI com string multipla
