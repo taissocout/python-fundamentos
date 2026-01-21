@@ -10,3 +10,4 @@
 [2026-03-12] #0010  Updated inline documentation  // Adicionando exemplo de menu CLI com string multipla
 [2026-03-12] #0011  Added guard clause  // Atualizado o nome dos arquivos de acordo com a ordem nu
 [2026-03-12] #0012  Added edge-case handling  // Atualização de nomes
+[2026-03-12] #0013  Removed dead code  // Adicionando tutorial de criação e manipulação de listas
