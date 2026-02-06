@@ -12,3 +12,4 @@
 [2026-03-12] #0012  Added edge-case handling  // Atualização de nomes
 [2026-03-12] #0013  Removed dead code  // Adicionando tutorial de criação e manipulação de listas
 [2026-03-12] #0014  Simplified loop with list comprehension  // Adicionando exemplo de metodos da classe list em Python
+[2026-03-12] #0015  Added guard clause  // Adicionando tutorial de tuplas em Python
